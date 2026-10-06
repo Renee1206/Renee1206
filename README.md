@@ -53,5 +53,5 @@
 
 ## Contact Me
 
-- Email |  [renehuang6633@gmail.com](mailto:renehuang6633@gmail.com)
+- Email |  [reneehuang6633@gmail.com](mailto:reneehuang6633@gmail.com)
 - GitHub |  [Renee1206](https://github.com/Renee1206)
