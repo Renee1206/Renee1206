@@ -1,16 +1,57 @@
-## Hi there 👋
+# Welcome to my GitHub 💻
 
-<!--
-**Renee1206/Renee1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### 👁️ Computer Vision / Image Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project Name | Repository | Technologies Used |
+| --- | --- | --- |
+| 手勢影像處理互動遊戲 | [hand-gesture-image-processing-game](https://github.com/Renee1206/hand-gesture-image-processing-game) | Python, OpenCV, MediaPipe, cvzone, NumPy |
+
+### 🌐 Website / Software System
+
+| Project Name | Repository | Technologies Used |
+| --- | --- | --- |
+| 銷售管理系統 | [sales-management](https://github.com/Renee1206/sales-management) | Python, Flask, Microsoft SQL Server, HTML, CSS, Bootstrap, Chart.js |
+| 校園資訊網站 | [school-website](https://github.com/Renee1206/school-website) | HTML, CSS, JavaScript, jQuery |
+| 簡易費用追蹤工具 | [SE_HW02](https://github.com/Renee1206/SE_HW02) | Python, Tkinter, Matplotlib, CSV |
+
+### 💡 Embedded Systems / IoT
+
+| Project Name | Repository | Technologies Used |
+| --- | --- | --- |
+| 演唱會應援棒控制系統 | [rgb-concert-glow-stick](https://github.com/Renee1206/rgb-concert-glow-stick) | ESP32, ESP8266, C++, Wi-Fi UDP, Blynk |
+
+### 🔐 Cybersecurity / Cryptography
+
+| Project Name | Repository | Technologies Used |
+| --- | --- | --- |
+| Kerberos Authentication Security | [kerberos-authentication-security](https://github.com/Renee1206/kerberos-authentication-security) | Python, Tkinter, AES, RSA, SHA-256 |
+| Autokey Cipher | [autokey-cipher](https://github.com/Renee1206/autokey-cipher) | x86 Assembly, MASM, Irvine32 |
+| Playfair Cipher | [playfair-cipher](https://github.com/Renee1206/playfair-cipher) | x86 Assembly, MASM, Irvine32 |
+| Rotor Machine Simulator | [rotor-machine-simulator](https://github.com/Renee1206/rotor-machine-simulator) | x86 Assembly, MASM, Irvine32 |
+
+### 🎮 Computer Graphics / Game
+
+| Project Name | Repository | Technologies Used |
+| --- | --- | --- |
+| 3D 太空射擊遊戲 | [spacecraft-game](https://github.com/Renee1206/spacecraft-game) | C++, OpenGL, GLUT |
+| OpenGL 挖土機模型 | [opengl-excavator](https://github.com/Renee1206/opengl-excavator) | C++, OpenGL |
+
+### 🧠 Compiler / Lexical Analysis
+
+| Project Name | Repository | Technologies Used |
+| --- | --- | --- |
+| Manual Lexer | [manual-lexer](https://github.com/Renee1206/manual-lexer) | Python |
+| Flex Lexer | [flex-lexer](https://github.com/Renee1206/flex-lexer) | Flex, C |
+
+### ⚙️ Assembly Language
+
+| Project Name | Repository | Technologies Used |
+| --- | --- | --- |
+| Morse Code Translator | [morse-code-translator](https://github.com/Renee1206/morse-code-translator) | x86 Assembly, MASM, Irvine32 |
+
+## Contact Me
+
+- Email |  [renehuang6633@gmail.com](mailto:renehuang6633@gmail.com)
+- GitHub |  [Renee1206](https://github.com/Renee1206)
