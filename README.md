@@ -6,7 +6,7 @@
 
 | Project Name | Repository | Technologies Used |
 | --- | --- | --- |
-| 手勢影像處理互動遊戲 | [hand-gesture-image-processing-game](https://github.com/Renee1206/hand-gesture-image-processing-game) | Python, OpenCV, MediaPipe, cvzone, NumPy |
+| 手勢辨識互動遊戲 | [hand-gesture-image-processing-game](https://github.com/Renee1206/hand-gesture-image-processing-game) | Python, OpenCV, MediaPipe, cvzone, NumPy |
 
 ### 🌐 Website / Software System
 
@@ -21,6 +21,7 @@
 | Project Name | Repository | Technologies Used |
 | --- | --- | --- |
 | 演唱會應援棒控制系統 | [rgb-concert-glow-stick](https://github.com/Renee1206/rgb-concert-glow-stick) | ESP32, ESP8266, C++, Wi-Fi UDP, Blynk |
+| 聖誕音樂互動裝置 | [santa-music-workshop](https://github.com/Renee1206/santa-music-workshop) | ESP32, C++, Wi-Fi UDP, Touch Sensor, PIR Sensor, Servo Motor, RGB LED, OLED |
 
 ### 🔐 Cybersecurity / Cryptography
 
@@ -53,5 +54,5 @@
 
 ## Contact Me
 
-- Email |  [reneehuang6633@gmail.com](mailto:reneehuang6633@gmail.com)
-- GitHub |  [Renee1206](https://github.com/Renee1206)
+- Email | [reneehuang6633@gmail.com](mailto:reneehuang6633@gmail.com)
+- GitHub | [Renee1206](https://github.com/Renee1206)
